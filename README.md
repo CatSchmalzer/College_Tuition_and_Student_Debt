@@ -8,13 +8,13 @@ My proposal is based upon the Integrated Postsecondary Education Data System (IP
 # Motivation
 I have a daughter entering her senior year of high school, and as we face one of the biggest decisions of her life, I am interested in helping her choose the best program possible, focus/limit the application process, while maximizing our budget for tuition (a plan for no scholarship or financial aid, just in case) with the best balance of debt and future earnings.
 
-# Data Question(s)
-o	What schools/degrees leave students in least debt? 
-o	“Top Ten” (for example) Engineering programs for women?
-o	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools
-o	Include graduation percentage and (average?) years to complete program?
-o	How many years of work to pay off debt? 
-o	What must graduate earn to make loan payment?
+# Proposed Data Question(s)
+1.	What schools/degrees leave students in least debt? 
+2.	“Top Ten” (for example) Engineering programs for women?
+3.	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools
+4.	Include graduation percentage and (average?) years to complete program?
+5.	How many years of work to pay off debt? 
+6.	What must graduate earn to make loan payment?
 
 # Supporting Articles:
 WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html
@@ -31,14 +31,14 @@ WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges
 # Data Sources
 Document the data you use and the source of that data (provide a link to the data when possible):
 
+1. College Scorecard: College Scorecard Data:
 https://collegescorecard.ed.gov/data/
-College Scorecard: College Scorecard Data
-Documentation: Documentation | College Scorecard Data
 
-IPEDS Data
+2. IPEDS Data:
 https://nces.ed.gov/ipeds/use-the-data
 https://www.tuitiontracker.org/
 
+3. How Highly Selective Schools are Defined:
 https://www.collegetransitions.com/college-selectivity/#:~:text=EXTREMELY%20SELECTIVE%20colleges%20accept%20fewer,score%20of%20at%20least%201340.
 
 # Known Issues and Challenges
