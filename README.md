@@ -26,7 +26,7 @@ WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges
 2.	Clean & Explore the Data 6/10/20)
 3.	Create Presentation (6/16/20) 
 4.	Internal Demos (6/19/2020)
-5.	Demo Day (6/?/2020) – TBD 
+5.	Demo Day (6/25/2020) 
 
 # Data Sources
 Document the data you use and the source of that data (provide a link to the data when possible):
