@@ -10,14 +10,13 @@ I have a daughter entering her senior year of high school, and as we face one of
 
 # Data Question(s)
 o	What schools/degrees leave students in least debt? 
-
-# IF POSSIBLE:
 o	“Top Ten” (for example) Engineering programs for women?
 o	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools
 o	Include graduation percentage and (average?) years to complete program?
 o	How many years of work to pay off debt? 
 o	What must graduate earn to make loan payment?
 
+# Supporting Articles:
 WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html
 WSJ: http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
 WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Type-sort.html
@@ -39,6 +38,8 @@ Documentation: Documentation | College Scorecard Data
 IPEDS Data
 https://nces.ed.gov/ipeds/use-the-data
 https://www.tuitiontracker.org/
+
+https://www.collegetransitions.com/college-selectivity/#:~:text=EXTREMELY%20SELECTIVE%20colleges%20accept%20fewer,score%20of%20at%20least%201340.
 
 # Known Issues and Challenges
 Explain any anticipated challenges with your project, and your plan for managing them.
