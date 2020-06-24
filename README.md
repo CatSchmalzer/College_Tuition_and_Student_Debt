@@ -1,8 +1,7 @@
 
-# College Tuition, Debt, and Future Earnings by Field of Study
-## Nashville Software School, Data Analytics Capstone Project
 
-![IPEDS Logo](./images/ipeds_title.PNG)
+![Main Title](./images/Capstone_Header.png)
+
 ## Table of Contents
 * [Motivation](#motivation)
 * [Data Questions](#the-questions)
@@ -78,4 +77,4 @@ After testing and comparing many diverse fields of study, there were apparent di
 * `GitHub` - version control and storage
 
 ## Tableau Project
-My final presentation was created on Tableau 2020.1 and is published on Tableau Public which you can see (and try out for yourself) [here](https://public.tableau.com/profile/catherine.schmalzer#!/).
+My final presentation was created on Tableau 2020.1 and is published on Tableau Public which you can see (and try out for yourself) [here](https://public.tableau.com/profile/catherine.schmalzer#!/vizhome/college_tuition_earnings/1_HeaderSlide).
