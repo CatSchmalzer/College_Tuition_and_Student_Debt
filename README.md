@@ -5,11 +5,12 @@ Nashville Software School, Data Analytics Capstone Project
 * [Motivation](#motivation)
 * [Data Questions](#the-questions)
 * [Data Sources](#data-sources)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies-used)
-* [Tableau Link](#tableau-link)
-* [Contact](#contact)
+* [Tableau Link](#tableau-project)
+
 ## Motivation
-I have a daughter entering her senior year of high school, and as we face one of the biggest decisions of her life, I am interested in helping her choose the best program possible, focus/limit the application process, maximize our budget for tuition (a plan for no scholarship or financial aid, just in case) with the best balance of debt and future earnings.
+I have a daughter entering her senior year of high school, and as we face one of the biggest decisions of her life, I am interested in helping her choose the best program possible, focus/limit the application process, maximize our budget for tuition with the best balance of debt and future earnings.
 ## The Questions
 1.	What schools and/or degrees leave students in least debt? 
 2.	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools. Is there a 'best value'?
@@ -19,7 +20,7 @@ My project uses the Integrated Postsecondary Education Data System (IPEDS) datas
 
 Links to my data sources:
 
-* College Scorecard: College Scorecard Data:
+* College Scorecard Data:
 https://collegescorecard.ed.gov/data/
 
 * IPEDS Data:
@@ -34,14 +35,24 @@ Additional Research:
 * http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
 * http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Type-sort.html
 
+## Screenshots from Project
+School Search Tool
+![School Search Tool](./images/info_tool.png)
 
+List of Highly Selective Schools
+![Highly Selective Schools](./images/hi_selective_chart.png)
+
+Cost Comparison
+![Comparing Costs](./images/comparing_costs.png)
+
+Interactive Debt and Future Earnings Tool
+![Earnings Tool](./images/earnings_tool.png)
 ## Technologies Used
-* Access/Excel - created csv files from Access tables
+* Access/Excel - created csv files from Access tables, data cleaning
 * Python, Pandas - Jupyter notebooks for EDA and merging of data
 * Tableau - vizualizations and presentation
 * Visual Studio Code - editing of files
 * GitHub - version control and storage
 
 ## Tableau Project
-My presentation was created as a Story and published on Tableau Public which you can see 
-[here](https://public.tableau.com/profile/catherine.schmalzer#!/) - and feel free to contact me with feedback or questions !
+My presentation was created as a Story and published on Tableau Public which you can see, and try out for yourself, [here](https://public.tableau.com/profile/catherine.schmalzer#!/).
