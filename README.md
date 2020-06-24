@@ -1,46 +1,47 @@
 # College Tuition, Debt, and Future Earnings by Field of Study
 Nashville Software School, Data Analytics Capstone Project
 
+## Table of Contents
+* [Motivation](#motivation)
+* [Data Questions](#the-questions)
+* [Data Sources](#data-sources)
+* [Technologies](#technologies-used)
+* [Tableau Link](#tableau-link)
+* [Contact](#contact)
+## Motivation
+I have a daughter entering her senior year of high school, and as we face one of the biggest decisions of her life, I am interested in helping her choose the best program possible, focus/limit the application process, maximize our budget for tuition (a plan for no scholarship or financial aid, just in case) with the best balance of debt and future earnings.
+## The Questions
+1.	What schools and/or degrees leave students in least debt? 
+2.	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools. Is there a 'best value'?
+3.	Is it cost effective to spend money on an elite institution?
+## Data Sources
+My project uses the Integrated Postsecondary Education Data System (IPEDS) dataset(s) collected by the National Center for Education Statistics (NCES). I also used the College Scorecard "Most Recent Data by Field of Study" to further my exploration of student loan debt and future earning power. 
 
-# Executive Summary
-My proposal is based upon the Integrated Postsecondary Education Data System (IPEDS) dataset(s) collected by the National Center for Education Statistics (NCES). I also used the College Scorecard "Most Recent Data by Field of Study" to further my exploration of student loan debt and future earning power. Is college tuition still worth it and any guarantee of financial security? What fields of study improve this type of success?
+Links to my data sources:
 
-# Motivation
-I have a daughter entering her senior year of high school, and as we face one of the biggest decisions of her life, I am interested in helping her choose the best program possible, focus/limit the application process, while maximizing our budget for tuition (a plan for no scholarship or financial aid, just in case) with the best balance of debt and future earnings.
-
-# Proposed Data Question(s)
-1.	What schools/degrees leave students in least debt? 
-2.	“Top Ten” (for example) Engineering programs for women?
-3.	Compare Public vs Private (not-for-profit) vs “Highly Selective” Schools
-4.	Include graduation percentage and (average?) years to complete program?
-5.	How many years of work to pay off debt? 
-6.	What must graduate earn to make loan payment?
-
-# Supporting Articles:
-WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html
-WSJ: http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
-WSJ: http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Type-sort.html
-
-# Schedule (through 6/25/2020)
-1.	Get the Data (5/26/20)
-2.	Clean & Explore the Data 6/10/20)
-3.	Create Presentation (6/16/20) 
-4.	Internal Demos (6/19/2020)
-5.	Demo Day (6/25/2020) 
-
-# Data Sources
-Document the data you use and the source of that data (provide a link to the data when possible):
-
-1. College Scorecard: College Scorecard Data:
+* College Scorecard: College Scorecard Data:
 https://collegescorecard.ed.gov/data/
 
-2. IPEDS Data:
+* IPEDS Data:
 https://nces.ed.gov/ipeds/use-the-data
 https://www.tuitiontracker.org/
 
-3. How Highly Selective Schools are Defined:
-https://www.collegetransitions.com/college-selectivity/#:~:text=EXTREMELY%20SELECTIVE%20colleges%20accept%20fewer,score%20of%20at%20least%201340.
+* How Highly Selective Schools are Defined:
+https://www.collegetransitions.com/college-selectivity/#:~:text=EXTREMELY%20SELECTIVE%20colleges%20accept%20fewer,score%20of%20at%20least%201340
 
-# Known Issues and Challenges
-Explain any anticipated challenges with your project, and your plan for managing them.
-I might need more data to support some questions, particularly to answer questions regarding women in engineering.
+Additional Research:
+* http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html
+* http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
+* http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Type-sort.html
+
+
+## Technologies Used
+* Access/Excel - created csv files from Access tables
+* Python, Pandas - Jupyter notebooks for EDA and merging of data
+* Tableau - vizualizations and presentation
+* Visual Studio Code - editing of files
+* GitHub - version control and storage
+
+## Tableau Project
+My presentation was created as a Story and published on Tableau Public which you can see 
+[here](https://public.tableau.com/profile/catherine.schmalzer#!/) - and feel free to contact me with feedback or questions !
