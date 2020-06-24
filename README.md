@@ -1,8 +1,8 @@
-![IPEDS Logo](./images/ipeds_title.PNG)
 
 # College Tuition, Debt, and Future Earnings by Field of Study
-Nashville Software School, Data Analytics Capstone Project
+## Nashville Software School, Data Analytics Capstone Project
 
+![IPEDS Logo](./images/ipeds_title.PNG)
 ## Table of Contents
 * [Motivation](#motivation)
 * [Data Questions](#the-questions)
